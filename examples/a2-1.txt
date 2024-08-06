@@ -1,0 +1,9 @@
+Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): Enter a word (Enter 'end' to quit): This word already exists. Please enter another word.
+Enter a word (Enter 'end' to quit): 26 words in the list:
+aa bb cc dd ee ff gg hh ii jj kk ll mm nn oo pp qq rr ss tt uu vv ww xx yy zz 
+Enter a word to search (Enter 'end' to quit): This word is in the list.
+Enter a word to search (Enter 'end' to quit): This word is in the list.
+Enter a word to search (Enter 'end' to quit): This word is in the list.
+Enter a word to search (Enter 'end' to quit): This word is in the list.
+Enter a word to search (Enter 'end' to quit): This word is NOT in the list.
+Enter a word to search (Enter 'end' to quit):
